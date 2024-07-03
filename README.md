@@ -8,10 +8,3 @@ This repository contains data and analysis tools for tennis matches. We have col
 - MatchVotesInfo
 - etc
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For issues and feature requests, please open an issue here.
